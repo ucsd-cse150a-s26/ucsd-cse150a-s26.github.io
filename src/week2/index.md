@@ -7,10 +7,10 @@
   - [Advanced Probability](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
 - Worksheet
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
-- Discussion
+<!-- - Discussion
   - [NetworkX Notebook](https://colab.research.google.com/drive/1EicgkS9kM680RTI7I7XEi0An-7yDaZyz?usp=sharing)
   - [Probability Concepts](https://drive.google.com/file/d/12-7IsQrNtq_hv8VwqPD1gPVQbGikyb_Y/view?usp=sharing)
-  - [Bayes Rule Example Notebook](https://colab.research.google.com/drive/16dJgFCsftDb5IGXaBaE6rcsw9N9HazsW?usp=sharing)
+  - [Bayes Rule Example Notebook](https://colab.research.google.com/drive/16dJgFCsftDb5IGXaBaE6rcsw9N9HazsW?usp=sharing) -->
 - Notebooks
   - [Agents](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/agents.ipynb)
 

@@ -4,9 +4,9 @@
 - Lecture Slides
   - [Hidden Markov Model's](https://drive.google.com/file/d/1Miug4uny-RyyXm44kq29qvAgTS4CBqU5/view?usp=sharing)
   - [More Hidden Markov Model's](https://drive.google.com/file/d/1pf9Skn_luj9hXaotf4_DrH-ALXyf5inT/view?usp=sharing)
-- Discussion
+<!-- - Discussion
   - [HMM Slides](https://drive.google.com/file/d/1_Pw_O4__rn1HpkgPU1GvLwr9jm_8HoQP/view?usp=sharing)
-  - [HMM Notebook](https://drive.google.com/file/d/195T8dI6Fb3qGT9VKIvfRG4o_SJM48EK5/view?usp=sharing)
+  - [HMM Notebook](https://drive.google.com/file/d/195T8dI6Fb3qGT9VKIvfRG4o_SJM48EK5/view?usp=sharing) -->
 - Worksheets
   - [Monday Lecture Participation](https://colab.research.google.com/drive/1AqMCiiHKjb5nVcF_Wq4yuyJZha2c6q_-?usp=sharing)
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
