@@ -8,8 +8,9 @@
   - [Intro to AI and Agents](https://drive.google.com/file/d/1jostf4D9ezDgqxJ4rRW9RfKyhNw9xjSi/view?usp=sharing)
 - Notebooks
   - [Jupyter Notebook Tutorial](https://drive.google.com/file/d/1n5p2kT7g0oQLzcLec2u10hFxfo5RORl0/view?usp=sharing)
-- [PEAS Worksheet](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view?usp=sharing)
-- [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
+- Worksheet
+  - [PEAS Worksheet](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view?usp=sharing)
+  - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
 
 - Discussion Session Notebooks
   - [Intro to Python](https://colab.research.google.com/drive/1DZwWkSo9GOdyTdSAGW-sUTr3Xew79o1t?usp=sharing)

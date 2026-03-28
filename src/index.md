@@ -1,12 +1,13 @@
 ![ML Drawing<img src="./images/works-my-machine.png" width="576" height="575" />](./images/works-my-machine.png)
 
-# UCSD CSE150A Winter 2026 Syllabus and Logistics
+# UCSD CSE150A Spring 2026 Syllabus and Logistics
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
 - Baharan Khatami (TA)
-- Anthony Tong (Lead Tutor)
+- Yilin Wang (TA)
 - Hyungjun Doh (Tutor)
 - Jaehyun Cha (Tutor)
+- Ismail Ahmad Faiz (Tutor)
 
 
 [Basics](#basics) -
@@ -24,8 +25,8 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [LEDDN](https://map.concept3d.com/?id=1005#!m/639912?share), Monday, Wednesday, Friday 8:00a-8:50a 
-- Discussion: [PODEM 1A20](https://map.concept3d.com/?id=1005#!m/761769?share), Friday 10:00a-10:50a
+- Lecture: [MOS 0113](https://map.concept3d.com/?id=1005#!m/576556?share), Monday, Wednesday, Friday 9:00-9:50 
+- Discussion: [LEDDN](https://map.concept3d.com/?id=1005#!m/639912?share), Friday 8:00-8:50
 - “Skill Assessments” Exams: Flexible scheduling in weeks 3, 5, 7, 9 and makeup(s) in week 10 
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
@@ -35,7 +36,7 @@ This web page serves as the main source of announcements and resources for the c
 - General Class Q&A Forum: Discord link on Canvas!
 - Code Q&A Forum: [Piazza](https://piazza.com/)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
-- Github: [https://github.com/ucsd-cse150a-w26](https://github.com/ucsd-cse150a-w26)
+- Github: [https://github.com/ucsd-cse150a-s26](https://github.com/ucsd-cse150a-s26)
 
 - Learning Objectives and Outcomes
   - Upon successful completion of this course, students will be able to:
@@ -80,7 +81,7 @@ There are several components to the course:
 
 ### Discussion
 
-The course's discussion component meets for 50 minutes every Friday (10 - 10:50 AM). In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
+The course's discussion component meets for 50 minutes every Friday (8 - 8:50 AM). In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
 
 The discussion sessions will be led by TAs and tutors, who will note your
 participation in these discussions for credit. At the end of the day you will submit your work to show participation.
@@ -102,14 +103,13 @@ totally complete, and some days we won't finish everything. But it should be
 clear from what you submit that you followed along and worked on the exercises we did in class.
 
 If you miss class, you can submit them up until the start of the next class as
-late submissions.  We recommend completing them while watching the podcast.
+late submissions. We recommend completing them while watching the podcast.
 We'll have TAs/Tutors on hand to help with questions during lecture and to help with submitting work to Gradescope. See [Grading](#grading) below for the
 required submissions and how that impacts your grade.
 
 ### Weekly Quizzes
 
-There will be **10** online, untimed, multiple-tries quiz on PrairieLearn. Deadlines for the quizzes can be found on PrairieLearn. Note: **For on time submission, it must be submitted prior to the deadline, regardless of the reason**. The purpose of this quiz is to make sure everyone has checked in on the concepts. They are open for late submission until the end of the quarter, but
-see grading below for how late submissions correspond to grades.
+There will be **10** online, untimed, multiple-tries quiz on PrairieLearn. Deadlines for the quizzes can be found on PrairieLearn. Note: **For on time submission, it must be submitted prior to the deadline, regardless of the reason**. The purpose of this quiz is to make sure everyone has checked in on the concepts. They are open for late submission until the end of the quarter, but see grading below for how late submissions correspond to grades.
 
 Sometimes quizzes have associated readings or videos to supplement lecture.
 

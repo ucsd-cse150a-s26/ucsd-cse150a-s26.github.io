@@ -7,7 +7,7 @@
 
 [Week 2 - Probability and Bayesian Networks](./week2/index.md)
 
-[Week 3 - Advanced Probability, Bayesian Networks and D-Seperation](./week3/index.md)
+<!-- [Week 3 - Advanced Probability, Bayesian Networks and D-Seperation](./week3/index.md)
 
 [Week 4 - D-Seperation, CPTs and Maximimum Likelihood Estimation](./week4/index.md)
 
@@ -21,7 +21,7 @@
 
 [Week 9 - MonteCarlo Methods and Intro to Reinforcement Learning](./week9/index.md)
 
-[Week 10 - Reinforcement Learning and Markov Decision Processes](./week10/index.md)
+[Week 10 - Reinforcement Learning and Markov Decision Processes](./week10/index.md) -->
 
 <!--[Week 3 - Sampling, Hidden Markov Model's, Foward-Backward and Viterbi's Algorithms](./week3/index.md)
 
