@@ -71,15 +71,46 @@ The schedule using the left side navigation bar outlines topics, due dates, and 
 ## Syllabus
 
 There are several components to the course:
-
-- **Discussion sessions**
-- **Lecture sessions**
-- **Weekly quizzes**
-- **Homework/PAs**
-- **Skill assessments**
+- **Exams (Skill Assessments)**
 - **Group project**
+- **Participations**
+- **Weekly quizzes**
+- **In-class quizzes**
+- **Programming Assignment**
 
-### Discussion
+
+### Exams (Skill Assessments)
+
+Several times during the quarter, you will complete a _skill assessment_
+-- this course's version of exams. You'll be given a jupyter notebook environment to practice on in advance. The practice problems will not be similar to the first skill assessment and will only be there to demonstrate the structure and environment.
+
+On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 3 and continue for weeks 5, 7 and 9. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. No notesheet is allowed.
+
+Skill assessments will take place in AP&M, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
+
+Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center and not prairietest.com. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.
+
+
+### Group Project
+The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Details on Canvas.
+
+
+### Participations (Lecture Sessions + Discussion)
+#### Lecture Sessions
+Lecture sessions are on Monday, Wednesday, and Friday.
+
+In each lecture, we will go over Jupyter Notebooks (available electronically via GitHub) or handouts. At the end of lecture you'll have a chance submit your work to Gradescope. To get participation credit for lecture, you have to
+submit a handout filled in with reasonable effort. It's fine if answers aren't
+right, and some days don't have right answers. It's fine if things aren't
+totally complete, and some days we won't finish everything. But it should be
+clear from what you submit that you followed along and worked on the exercises we did in class.
+
+If you miss class, you can submit them up until the start of the next class as
+late submissions. We recommend completing them while watching the podcast.
+We'll have TAs/Tutors on hand to help with questions during lecture and to help with submitting work to Gradescope. See [Grading](#grading) below for the
+required submissions and how that impacts your grade.
+
+#### Discussion
 
 The course's discussion component meets for 50 minutes every Friday (8 - 8:50 AM). In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
 
@@ -91,22 +122,6 @@ relevant material via Skill Assessments. You can miss 1 discussion submission
 without it impacting your grade (see [Grading](#grading) below). There is no
 way to make up a dicussion, even for illness, travel, or emergencies.
 
-### Lecture Sessions
-
-Lecture sessions are on Monday, Wednesday, and Friday.
-
-In each lecture, we will go over Jupyter Notebooks (available electronically via GitHub). At the end of lecture you'll have a chance submit your Jupyter Notebook to Gradescope. You can do this by uploading your ipynb file via the Gradescope app (for iOS and Android) or
-through the web interface. To get participation credit for lecture, you have to
-submit a handout filled in with reasonable effort. It's fine if answers aren't
-right, and some days don't have right answers. It's fine if things aren't
-totally complete, and some days we won't finish everything. But it should be
-clear from what you submit that you followed along and worked on the exercises we did in class.
-
-If you miss class, you can submit them up until the start of the next class as
-late submissions. We recommend completing them while watching the podcast.
-We'll have TAs/Tutors on hand to help with questions during lecture and to help with submitting work to Gradescope. See [Grading](#grading) below for the
-required submissions and how that impacts your grade.
-
 ### Weekly Quizzes
 
 There will be **10** online, untimed, multiple-tries quiz on PrairieLearn. Deadlines for the quizzes can be found on PrairieLearn. Note: **For on time submission, it must be submitted prior to the deadline, regardless of the reason**. The purpose of this quiz is to make sure everyone has checked in on the concepts. They are open for late submission until the end of the quarter, but see grading below for how late submissions correspond to grades.
@@ -115,38 +130,6 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Homeworks
 
-There will be **4** Homeworks. You will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. The homework will typically be due on Wednesdays. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
-
-For each post, our staff will review it and give a **0-4** score along with feedback:
-
-- **4** for a complete submission of professional quality that covers all the expectations listed in the directions (>= 90)
-- **3** for a complete submission with some mistakes, some unclear writing, or some confusing or nonstandard formatting (>= 80)
-- **2** for a complete submission with major mistakes, some unclear writing, or some confusing or nonstandard formatting (>= 70)
-- **1** for a submission missing key components, or clear inaccuracies in multiple components (>= 60)
-- **0** for no submission, a blank submission, or a submission of something irrelevant
-
-After each homework is graded, you'll have a chance to *resubmit* it based on the feedback you received, which will detail what you need to do to increase your score. Once the homework is graded and returned with feedback, the resubmission period (max of one week) will be opened.
-
-- For an original score of **0**, you can raise your score to **2** (but not to **3** or **4**)
-- For an original score of **1**, you can raise your score to **3** (but not to **4**)
-
-- For an original score of **2**, you can raise your score to **4**
-
-This is the only policy for excused homework regardless of the reason. This is also the only late policy for homework. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission. 
-
-### Skill Assessments
-
-Several times during the quarter, you will complete a _skill assessment_
--- this course's version of exams. You'll be given a jupyter notebook environment to practice on in advance. The practice problems will not be similar to the first skill assessment and will only be there to demonstrate the structure and environment.
-
-On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 3 and continue for weeks 5, 7 and 9. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. No notesheet is allowed.
-
-Skill assessments will take place in AP&M, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
-
-Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center and not prairietest.com. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.
-
-### Group Project
-The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Details on Canvas.
 
 ## Grading
 
