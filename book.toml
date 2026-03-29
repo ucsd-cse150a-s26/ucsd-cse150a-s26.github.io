@@ -3,7 +3,7 @@ authors = ["Edwin Solares"]
 language = "en"
 multilingual = false
 src = "src"
-title = "UCSD CSE150A Winter 2026"
+title = "UCSD CSE150A Spring 2026"
 
 [output.html.playground]
 runnable = false
