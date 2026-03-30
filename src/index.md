@@ -116,7 +116,7 @@ required submissions and how that impacts your grade.
 
 The course's discussion component meets for 50 minutes every Friday (8 - 8:50 AM). In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
 
-The discussion sessions will be led by TAs, who will note your participation in these discussions for credit. At the end of the day you will submit your work to show participation.
+The discussion sessions will be led by TAs. Before the discussion session ends, you must submit your work to Gradescope to receive discussion participation credit.
 
 If you miss discussion, you'll still be held accountable for understanding the relevant material via Skill Assessments. You can miss 1 discussion submission without it impacting your grade (see [Grading](#grading) below). However, discussions will not be podcasted, and there is no way to make up a missed discussion, even in cases of illness, travel, or emergencies.
 
@@ -270,9 +270,5 @@ Stay tuned for announcements about scheduling a make-up later in the quarter.
 
 **Where is the financial aid survey?**
 
-We do this for you; as long as you submit a quiz, lecture handout, or do a lab
-participation in the first week, we will mark you as commencing academic
+We do this for you; as long as you submit a quiz or lecture handout in the first week, we will mark you as commencing academic
 activity.
-
-
-
