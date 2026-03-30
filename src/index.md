@@ -114,22 +114,33 @@ required submissions and how that impacts your grade.
 
 The course's discussion component meets for 50 minutes every Friday (8 - 8:50 AM). In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
 
-The discussion sessions will be led by TAs and tutors, who will note your
+The discussion sessions will be led by TAs, who will note your
 participation in these discussions for credit. At the end of the day you will submit your work to show participation.
 
 If you miss discussion, you'll still be held accountable for understanding the
 relevant material via Skill Assessments. You can miss 1 discussion submission
 without it impacting your grade (see [Grading](#grading) below). There is no
-way to make up a dicussion, even for illness, travel, or emergencies.
+way to make up a discussion, even for illness, travel, or emergencies.
 
-### Weekly Quizzes
+### PrairieLearn Quiz
 
 There will be **10** online, untimed, multiple-tries quiz on PrairieLearn. Deadlines for the quizzes can be found on PrairieLearn. Note: **For on time submission, it must be submitted prior to the deadline, regardless of the reason**. The purpose of this quiz is to make sure everyone has checked in on the concepts. They are open for late submission until the end of the quarter, but see grading below for how late submissions correspond to grades.
 
 Sometimes quizzes have associated readings or videos to supplement lecture.
 
-### Homeworks
+### In-class Quiz
+There will be 10 in-class quizzes throughout the quarter, held every Wednesday during the scheduled lecture time. Quizzes will be starting with a demo quiz on Wednesday of Week 1. Each quiz will cover material from the previous week's lectures.
 
+
+### Homeworks (Optional)
+
+There will be **4** Homeworks, which will contain coding questions. You will typically have two weeks to submit via Gradescope the autograder portion of the homework. **These submissions will not count for credit** and are for practice only. The homework will typically be due on Wednesdays.
+
+We will create a repository for each homework assignment so that students can launch their GitHub Codespaces. Homework submissions will be on Gradescope.
+
+**Note**
+
+If a student is on the border of a step change in their grade (e.g., A- to A), homework completion may be considered for rounding to the next step. In such cases, the sum of the homework grades might be considered at most 0.5% of the total grade.
 
 ## Grading
 
@@ -154,10 +165,11 @@ The weighted breakdown of each category is as follows:
 
 | Category | Percentage |
 | --- | --- |
-Participation | 10%
-Quizzes | 10%
-Homeworks | 20%
-Group Project | 25%
+Participation | 15%
+In-Class Quiz | 10%
+PrairieLearn Quiz | 10%
+Homeworks | 0%
+Group Project | 30%
 Skill Assessments | 35%
 
 ## Policy
@@ -239,20 +251,20 @@ sure you understand the material from discussion because it will be used on skil
 assessments; try to do the parts that don't involve discussion on
 your own, and review your group's discussion notes. This is why it's good to make new friends in my classes. :)
 
-**I missed a quiz deadline, what should I do?**
+**I missed the online quiz deadline, what should I do?**
 
 For Quiz 1-10, there is a late submission penalty; you can only earn 80% of the credit remaining that you can normally earn.
 
-**I missed a homework deadline, what should I do?**
+<!-- **I missed a homework deadline, what should I do?**
 
 A week after each homework deadline there is a late/resubmission deadline (except for the last homework).
 You can resubmit then. See the homework section above for grading details
-about resubmissions.
+about resubmissions. -->
 
-**I missed a homework resubmission deadline, what should I do?**
+<!-- **I missed a homework resubmission deadline, what should I do?**
 
 You cannot get an extension on homework resubmissions; we cannot support
-multiple late deadlines and still grade all the coursework on time.
+multiple late deadlines and still grade all the coursework on time. -->
 
 **I missed my skill assessment time, what should I do?**
 
