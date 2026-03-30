@@ -74,9 +74,9 @@ There are several components to the course:
 - **Exams (Skill Assessments)**
 - **Group project**
 - **Participations**
-- **Weekly quizzes**
-- **In-class quizzes**
-- **Programming Assignment**
+- **PrairieLearn quiz**
+- **In-class quiz**
+- **Homework (Optional)**
 
 
 ### Exams (Skill Assessments)
@@ -135,9 +135,9 @@ There will be 10 in-class quizzes throughout the quarter, held every Wednesday d
 
 ### Homeworks (Optional)
 
-There will be **4** Homeworks, which will contain coding questions. You will typically have two weeks to submit via Gradescope the autograder portion of the homework. **These submissions will not count for credit** and are for practice only. The homework will typically be due on Wednesdays.
+There will be **4** Homeworks, which will contain coding questions. You will typically have two weeks to submit via Gradescope. **These submissions will not count for credit** and are for practice only. The homework will typically be due on Wednesdays.
 
-We will create a repository for each homework assignment so that students can launch their GitHub Codespaces. Homework submissions will be on Gradescope.
+We will create a repository for each homework assignment so that students can launch their GitHub Codespaces.
 
 **Note**: If a student is on the border of a step change in their grade (e.g., A- to A), homework completion may be considered for rounding to the next step. In such cases, the sum of the homework grades might be considered at most 0.5% of the total grade.
 
@@ -164,10 +164,10 @@ The weighted breakdown of each category is as follows:
 
 | Category | Percentage |
 | --- | --- |
-Participation | 15%
+Homework | 0%
 In-Class Quiz | 10%
 PrairieLearn Quiz | 10%
-Homeworks | 0%
+Participation | 15%
 Group Project | 30%
 Skill Assessments | 35%
 
