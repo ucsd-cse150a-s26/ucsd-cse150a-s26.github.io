@@ -82,9 +82,11 @@ There are several components to the course:
 ### Exams (Skill Assessments)
 
 Several times during the quarter, you will complete a _skill assessment_
--- this course's version of exams. You'll be given a jupyter notebook environment to practice on in advance. The practice problems will not be similar to the first skill assessment and will only be there to demonstrate the structure and environment.
+-- this course's version of exams. You'll be given a jupyter notebook environment to practice on in advance. There will be a practice exam during Weeks 1–2 for students who want to familiarize themselves with the course’s exam format. The practice problems will not be similar to the first skill assessment and will only be there to demonstrate the structure and environment.
 
-On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 3 and continue for weeks 5, 7 and 9. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. No notesheet is allowed.
+On each you will have an autograder with 1-2 coding questions with several theory questions and 45 minutes to complete each assessment. The format will be similar to the PrairieLearn quiz, but harder. Hints about the content of the skill assessment will be announced during lecture, so make sure to attend. Discussion materials will also help you prepare for the skill assessments.
+
+The skill assessments will start on week 3 and continue for weeks 5, 7 and 9. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. No notesheet is allowed.
 
 Skill assessments will take place in AP&M, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
 
@@ -99,14 +101,14 @@ The group project is milestone based and will consist of several milestones. Wor
 #### Lecture Sessions
 Lecture sessions are on Monday, Wednesday, and Friday.
 
-In each lecture, we will go over Jupyter Notebooks (available electronically via GitHub) or handouts. At the end of lecture you'll have a chance submit your work to Gradescope. To get participation credit for lecture, you have to
+During each lecture, we will mainly go over the lecture slides. Worksheets will be provided on the course website. To get participation credit for lecture, you have to
 submit a handout filled in with reasonable effort. It's fine if answers aren't
 right, and some days don't have right answers. It's fine if things aren't
 totally complete, and some days we won't finish everything. But it should be
-clear from what you submit that you followed along and worked on the exercises we did in class.
+clear from what you submit that you followed along and worked on the exercises we did in class. **Submissions must be turned in before the end of class**.
 
 If you miss class, you can submit them up until the start of the next class as
-late submissions. We recommend completing them while watching the podcast.
+late submissions. However, there will be a significant late penalty. We recommend completing them while watching the podcast.
 We'll have TAs/Tutors on hand to help with questions during lecture and to help with submitting work to Gradescope. See [Grading](#grading) below for the
 required submissions and how that impacts your grade.
 
@@ -114,13 +116,9 @@ required submissions and how that impacts your grade.
 
 The course's discussion component meets for 50 minutes every Friday (8 - 8:50 AM). In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
 
-The discussion sessions will be led by TAs, who will note your
-participation in these discussions for credit. At the end of the day you will submit your work to show participation.
+The discussion sessions will be led by TAs, who will note your participation in these discussions for credit. At the end of the day you will submit your work to show participation.
 
-If you miss discussion, you'll still be held accountable for understanding the
-relevant material via Skill Assessments. You can miss 1 discussion submission
-without it impacting your grade (see [Grading](#grading) below). There is no
-way to make up a discussion, even for illness, travel, or emergencies.
+If you miss discussion, you'll still be held accountable for understanding the relevant material via Skill Assessments. You can miss 1 discussion submission without it impacting your grade (see [Grading](#grading) below). However, discussions will not be podcasted, and there is no way to make up a missed discussion, even in cases of illness, travel, or emergencies.
 
 ### PrairieLearn Quiz
 
@@ -132,6 +130,7 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 There will be 10 in-class quizzes throughout the quarter, held every Wednesday during the scheduled lecture time. Quizzes will be starting with a demo quiz on Wednesday of Week 1. Each quiz will cover material from the previous week's lectures.
 
+If attendance is low during Monday or Friday lectures, quizzes may be moved to those days.
 
 ### Homeworks (Optional)
 
@@ -178,7 +177,7 @@ Skill Assessments | 35%
 Individual assignments describe policies specific to the assignment. Some
 general policies for the course are here.
 
-### Homework + Group Projects and Academic Integrity
+### Group Projects and Academic Integrity
 
 You can use code that we provide or that you develop. All of the *writing* must be your own.
 
