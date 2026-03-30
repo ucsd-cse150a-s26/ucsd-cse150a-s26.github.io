@@ -129,6 +129,7 @@ There will be **10** online, untimed, multiple-tries quiz on PrairieLearn. Deadl
 Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### In-class Quiz
+
 There will be 10 in-class quizzes throughout the quarter, held every Wednesday during the scheduled lecture time. Quizzes will be starting with a demo quiz on Wednesday of Week 1. Each quiz will cover material from the previous week's lectures.
 
 
@@ -138,9 +139,7 @@ There will be **4** Homeworks, which will contain coding questions. You will typ
 
 We will create a repository for each homework assignment so that students can launch their GitHub Codespaces. Homework submissions will be on Gradescope.
 
-**Note**
-
-If a student is on the border of a step change in their grade (e.g., A- to A), homework completion may be considered for rounding to the next step. In such cases, the sum of the homework grades might be considered at most 0.5% of the total grade.
+**Note**: If a student is on the border of a step change in their grade (e.g., A- to A), homework completion may be considered for rounding to the next step. In such cases, the sum of the homework grades might be considered at most 0.5% of the total grade.
 
 ## Grading
 
@@ -201,9 +200,9 @@ the skill assessments, trying things out beforehand, and so on.
 
 However, you **CANNOT** share details of _your_ skill assessment with others until the following Saturday. You **CANNOT** communicate with anyone during the week of that skill assessment. i.e. Skill assessment 1 cannot be discussed during the entirety of week 2 and so forth.
 
-### Quizzes and Academic Integrity
+### PrairieLearn Quiz and Academic Integrity
 
-You can work on weekly quizzes with other students.
+You can work on PrairieLearn quizzes with other students.
 
 ## Anticipated Frequent Questions
 
@@ -251,7 +250,7 @@ sure you understand the material from discussion because it will be used on skil
 assessments; try to do the parts that don't involve discussion on
 your own, and review your group's discussion notes. This is why it's good to make new friends in my classes. :)
 
-**I missed the online quiz deadline, what should I do?**
+**I missed the PrairieLearn quiz deadline, what should I do?**
 
 For Quiz 1-10, there is a late submission penalty; you can only earn 80% of the credit remaining that you can normally earn.
 
