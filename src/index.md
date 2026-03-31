@@ -94,7 +94,7 @@ Students requesting accommodations for this course due to a disability must prov
 
 
 ### Group Project
-The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Project milestones (except the final project) are due at Sundays 11:59pm PST. Details on Canvas.
+The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Project milestones (except the final project) are due at Sundays 11:59pm PST. The mininum size of a group (including yourself) is 1 and the maximum size of a group (including yourself) is 4. Details on Canvas soon.
 
 
 ### Participations (Lecture Sessions + Discussion)
