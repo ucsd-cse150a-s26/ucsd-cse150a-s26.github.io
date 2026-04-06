@@ -13,6 +13,9 @@
   - [Bayes Rule Example Notebook](https://colab.research.google.com/drive/16dJgFCsftDb5IGXaBaE6rcsw9N9HazsW?usp=sharing) -->
 - Notebooks
   - [Agents](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/agents.ipynb)
+- Discussion notebooks
+  - [Probability Concept](https://colab.research.google.com/drive/1EEfBESQPPLXefCCfjy2Inj0u0QSEd41P?usp=sharing)
+  - [NetworkX](https://colab.research.google.com/drive/1EicgkS9kM680RTI7I7XEi0An-7yDaZyz?usp=sharing)
 
 <!-- ## Homework 1 - Due 11:59 PM Wednesday, July 9 (Assignment on Canvas)
 
