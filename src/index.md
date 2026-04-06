@@ -7,7 +7,6 @@
 - Yilin Wang (TA)
 - Hyungjun Doh (Tutor)
 - Jaehyun Cha (Tutor)
-- Ismail Ahmad Faiz (Tutor)
 
 
 [Basics](#basics) -
