@@ -7,6 +7,8 @@
 
 [Week 2 - Probability and Bayesian Networks](./week2/index.md)
 
+[Week 3 - Advanced Probability, Bayesian Networks and D-Seperation](./week3/index.md)
+
 <!-- [Week 3 - Advanced Probability, Bayesian Networks and D-Seperation](./week3/index.md)
 
 [Week 4 - D-Seperation, CPTs and Maximimum Likelihood Estimation](./week4/index.md)
