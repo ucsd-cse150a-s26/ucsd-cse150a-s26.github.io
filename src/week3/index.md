@@ -12,9 +12,9 @@
 - Worksheets
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
   - [Probability and Bayesian Networks Worksheet](https://drive.google.com/file/d/1qqax-sljWvWcvuyiLwvIrIrZwDLSY76u/view?usp=drive_link)
-<!-- - Discussion notebooks
-  -   [D-separation slides](https://drive.google.com/file/d/1Y8giEWkZxurL0iisiMdMGerhyLffMnyE/view?usp=sharing)
-  -   [D-separation notebook](https://colab.research.google.com/drive/1WzUZNE2NEgDLAOpVdOXEDhgX_kffvtJo?usp=sharing) -->
+- Discussion notebooks
+  -   [Bayesian Networks](https://colab.research.google.com/drive/1MA0o7LWGq9gQAyTbbi-4rKR_e6CJFbQb?usp=sharing)
+  -   [D-separation](https://colab.research.google.com/drive/1WzUZNE2NEgDLAOpVdOXEDhgX_kffvtJo?usp=sharing)
 
 <!-- # Week 3 – Sampling, Hidden Markov Model's, Foward-Backward and Viterbi's Algorithms
 
