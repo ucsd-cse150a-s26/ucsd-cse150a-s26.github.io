@@ -13,9 +13,9 @@
   - [Maximum Likelihood Estimation](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=drive_link)
   - [Entropy & Log Likelihood](https://drive.google.com/file/d/1EtzNMLkDe2lk-5_bn5AfaqdCn7j6NuvJ/view?usp=drive_link)
   - [CPTs, Markov Blankets](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=drive_link)
+  - [MLE Slides](https://drive.google.com/file/d/1hE2SGtRV5U4idR4CGlBgE5WoENmXyFsh/view?usp=sharing)
 <!-- - Discussion
   - [D-Sep Notebook](https://colab.research.google.com/drive/1WzUZNE2NEgDLAOpVdOXEDhgX_kffvtJo?usp=sharing) -->
-  - [MLE Slides](https://drive.google.com/file/d/1hE2SGtRV5U4idR4CGlBgE5WoENmXyFsh/view?usp=sharing)
 - Notebooks (Note if imports are used you will need to upload that python script that is imported)
   <!-- - [Forward and Backward Algorithm](https://drive.google.com/file/d/15P-13MMOB-lfu21ScQVC3qGf2MMIEQfK/view?usp=sharing)
   - [Viterbi's Algorithm - NetworkX + Graph Theory](https://colab.research.google.com/drive/1AqMCiiHKjb5nVcF_Wq4yuyJZha2c6q_-?usp=sharing)
@@ -25,6 +25,8 @@
 - Worksheets
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
   - [Probability and Bayesian Networks Worksheet](https://drive.google.com/file/d/1qqax-sljWvWcvuyiLwvIrIrZwDLSY76u/view?usp=drive_link)
+- Homework(Optional)
+  - [Homework 2](https://drive.google.com/file/d/1bKanHET2gB0ERmNSAvffRqq5NxMY5JV3/view)
 <!-- ## Week 4 Discussion
 - Discussion Notebooks
   - [EM](https://colab.research.google.com/drive/1wRvdoX0AKZdKnnIdlO5XDhlOTPMpRaU2?usp=sharing)
