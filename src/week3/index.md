@@ -4,7 +4,7 @@
 
 - Lecture Slides
   - [Adv Topics in Prob.](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
-  - [Bayesian Networks](https://docs.google.com/presentation/d/101j4WsoREnnxePrSkljcxMOqvsQ0N0I3bFu1k9-UH7A/edit?slide=id.g2bc952fd5d8_0_0#slide=id.g2bc952fd5d8_0_0))
+  - [Bayesian Networks](https://drive.google.com/file/d/1HL40pDbgywliLMzevMrRVHyqEzLvKeN_/view?usp=sharing)
   - [D-Separation](https://drive.google.com/file/d/1Y8giEWkZxurL0iisiMdMGerhyLffMnyE/view?usp=drive_link)
 - Notebooks (Note if imports are used you will need to upload that python script that is imported)
   - [Probability Notebook](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/probability.ipynb)
