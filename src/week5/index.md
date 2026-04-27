@@ -4,6 +4,7 @@
 ## Week 5 Course Materials
 
 - Lecture Slides
+  - [Bayesian Networks](https://drive.google.com/file/d/1HL40pDbgywliLMzevMrRVHyqEzLvKeN_/view?usp=sharing)
   - [CPTs, Markov Blankets](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=drive_link)
   - [Maximum Likelihood Estimation](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=drive_link)
   - [Entropy & Log Likelihood](https://drive.google.com/file/d/1EtzNMLkDe2lk-5_bn5AfaqdCn7j6NuvJ/view?usp=drive_link)
