@@ -1,14 +1,13 @@
-# Week 5 – Maximum Likelihood Estimation and Hidden Markov Model's
+# Week 5 – Maximum Likelihood Estimation
 
 
 ## Week 5 Course Materials
 
 - Lecture Slides
-  - [Maximum Likelihood Estimation](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=drive_link)
   - [CPTs, Markov Blankets](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=drive_link)
-  - [Bayesian Networks, MLE, Markov Processes, NB Review](https://drive.google.com/file/d/1iFmH5y-ScNCbazpTq9YVN0ZjJUeLKOfU/view?usp=sharing)
-  - [Hidden Markov Model's](https://drive.google.com/file/d/1Miug4uny-RyyXm44kq29qvAgTS4CBqU5/view?usp=sharing)
-  - [More Hidden Markov Model's](https://drive.google.com/file/d/1pf9Skn_luj9hXaotf4_DrH-ALXyf5inT/view?usp=sharing)
+  - [Maximum Likelihood Estimation](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=drive_link)
+  - [Entropy & Log Likelihood](https://drive.google.com/file/d/1EtzNMLkDe2lk-5_bn5AfaqdCn7j6NuvJ/view?usp=drive_link)
+  - [MLE Slides](https://drive.google.com/file/d/1hE2SGtRV5U4idR4CGlBgE5WoENmXyFsh/view?usp=sharing)
   <!-- - [EM in HMMs](https://drive.google.com/file/d/1QWzx_aBaYUe9v3A5iyVfJ0SAuGYolHcF/view?usp=sharing)
   - [EM Special Cases](https://drive.google.com/file/d/1x18FWhS8fjentuebv7ZOi9PPYL27e1-5/view?usp=sharing)
   - [Sampling](https://drive.google.com/file/d/1Ee4hKuzo3hFtXlKxkAp_pAm9QNrI6qVQ/view?usp=sharing)
