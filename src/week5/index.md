@@ -8,6 +8,7 @@
   - [CPTs, Markov Blankets](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=drive_link)
   - [Maximum Likelihood Estimation](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=drive_link)
   - [Entropy & Log Likelihood](https://drive.google.com/file/d/1EtzNMLkDe2lk-5_bn5AfaqdCn7j6NuvJ/view?usp=drive_link)
+  - [Sampling](https://drive.google.com/file/d/1Ee4hKuzo3hFtXlKxkAp_pAm9QNrI6qVQ/view?usp=sharing)
   <!-- - [EM in HMMs](https://drive.google.com/file/d/1QWzx_aBaYUe9v3A5iyVfJ0SAuGYolHcF/view?usp=sharing)
   - [EM Special Cases](https://drive.google.com/file/d/1x18FWhS8fjentuebv7ZOi9PPYL27e1-5/view?usp=sharing)
   - [Sampling](https://drive.google.com/file/d/1Ee4hKuzo3hFtXlKxkAp_pAm9QNrI6qVQ/view?usp=sharing)
