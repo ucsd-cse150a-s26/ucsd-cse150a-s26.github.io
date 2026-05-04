@@ -17,8 +17,6 @@
   - [Bayesian Network Notebook](https://colab.research.google.com/drive/1Hlc2RXgrXR_TQme7BX1FWEl0o7MvdfXq?usp=sharing)
   - [MLE Notebook](https://colab.research.google.com/drive/1dxrGo8b9nNm7xi2wTm3aMBSyFNnVJFsE?usp=sharing)
   - [Noisy OR](https://colab.research.google.com/drive/1r39A6HAxvjCdKdyzSuBQ4jzjgKWKezT2?usp=sharing)
-- Notebooks (Note if imports are used you will need to upload that python script that is imported)
-  - TBA
 - Worksheets
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
 <!-- ## Week 5 Discussion
