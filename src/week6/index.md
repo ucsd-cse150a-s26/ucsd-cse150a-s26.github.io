@@ -3,6 +3,7 @@
 ## Week 6 Course Materials
 - Lecture Slides
   - [Maximum Likelihood Estimation](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=drive_link)
+  - [Markov Model & Naive Bayes models](https://drive.google.com/file/d/1iFmH5y-ScNCbazpTq9YVN0ZjJUeLKOfU/view?usp=drive_link)
   - [Hidden Markov Model's](https://drive.google.com/file/d/1Miug4uny-RyyXm44kq29qvAgTS4CBqU5/view?usp=sharing)
   - [More Hidden Markov Model's](https://drive.google.com/file/d/1pf9Skn_luj9hXaotf4_DrH-ALXyf5inT/view?usp=sharing)
 <!-- - Discussion
