@@ -8,7 +8,7 @@
   - [More Hidden Markov Model's](https://drive.google.com/file/d/1pf9Skn_luj9hXaotf4_DrH-ALXyf5inT/view?usp=sharing)
 - Discussion
   - [Markov Blanket Notebook](https://drive.google.com/file/d/1ye5RGPTNd8G2CmxFneD9I9oCmVxCyntW/view?usp=sharing)
-  - [Maximum Likelihood Estimation with Pandas](https://drive.google.com/file/d/1X_ghhYj8agwhA91l6QLJKbjbPVISEE1B/view?usp=sharing)  
+  - [Maximum Likelihood Estimation with Pandas Notebook](https://drive.google.com/file/d/1X_ghhYj8agwhA91l6QLJKbjbPVISEE1B/view?usp=sharing)  
 - Worksheets
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
   - [Additional HMM Practice Worksheet](https://drive.google.com/file/d/1H1PCqqUEdoQ6EVG5wjeMuXhmthmkYxPq/view?usp=sharing)
