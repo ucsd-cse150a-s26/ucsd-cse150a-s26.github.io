@@ -6,7 +6,7 @@
   - [Markov Model & Naive Bayes models](https://drive.google.com/file/d/1iFmH5y-ScNCbazpTq9YVN0ZjJUeLKOfU/view?usp=drive_link)
   - [Hidden Markov Model's](https://drive.google.com/file/d/1Miug4uny-RyyXm44kq29qvAgTS4CBqU5/view?usp=sharing)
   - [More Hidden Markov Model's](https://drive.google.com/file/d/1pf9Skn_luj9hXaotf4_DrH-ALXyf5inT/view?usp=sharing)
-<!-- - Discussion
+- Discussion
   - [Markov Blanket Notebook](https://drive.google.com/file/d/1ye5RGPTNd8G2CmxFneD9I9oCmVxCyntW/view?usp=sharing)
   - [Maximum Likelihood Estimation with Pandas](https://drive.google.com/file/d/1X_ghhYj8agwhA91l6QLJKbjbPVISEE1B/view?usp=sharing)  
 - Worksheets
