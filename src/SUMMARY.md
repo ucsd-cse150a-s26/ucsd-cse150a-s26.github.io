@@ -4,11 +4,13 @@
 <!-- - [Week 1,2 - Data, Numpy, Matrices, Error/Loss functions and Regression](./week1_2/index.md) -->
 [Jupyter Notebook Export Tutorial](./export.md)
  [Group Project](./group_project/index.md)
- - [Sprint Results](./tournament/sprint.md)
- - [Blitz Results](./tournament/blitz.md)
- - [Rapid Results](./tournament/rapid.md)
- - [Classical Results](./tournament/classical.md)
- - [Extended Results](./tournament/extended.md)
+ <!-- - [Milestone 1](./group_project/milestone1.md)
+ - [Milestone 2](./group_project/milestone2.md)
+ - [Milestone 3](./group_project/milestone3.md) -->
+ - [Milestone 4](./group_project/milestone4.md)
+ - [Milestone 5](./group_project/milestone5.md)
+ - [Milestone 6](./group_project/milestone6.md)
+ <!-- - [Milestone voting](./group_project/milestone7.md) -->
 [Week 1 - Introduction, Agents, and Environments](./week1/index.md)
 
 [Week 2 - Probability and Bayesian Networks](./week2/index.md)
