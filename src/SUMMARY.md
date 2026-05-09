@@ -3,6 +3,12 @@
 [Introduction to AI](./index.md)
 <!-- - [Week 1,2 - Data, Numpy, Matrices, Error/Loss functions and Regression](./week1_2/index.md) -->
 [Jupyter Notebook Export Tutorial](./export.md)
+ [Group Project](./group_project/index.md)
+ - [Sprint Results](./tournament/sprint.md)
+ - [Blitz Results](./tournament/blitz.md)
+ - [Rapid Results](./tournament/rapid.md)
+ - [Classical Results](./tournament/classical.md)
+ - [Extended Results](./tournament/extended.md)
 [Week 1 - Introduction, Agents, and Environments](./week1/index.md)
 
 [Week 2 - Probability and Bayesian Networks](./week2/index.md)
