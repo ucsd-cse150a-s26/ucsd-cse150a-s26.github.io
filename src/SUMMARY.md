@@ -21,7 +21,9 @@
 
 [Week 5 – Maximum Likelihood Estimation](./week5/index.md)
 
-[Week 6 - Hidden Markove Model's, Viterbi's Algorithm](./week6/index.md)
+[Week 6 - Maximum Likelihood Estimation, Hidden Markove Model's](./week6/index.md)
+
+[Week 7 – Hidden Markove Model's, Forward/Backward Algorithm](./week7/index.md)
 <!-- [Week 3 - Advanced Probability, Bayesian Networks and D-Seperation](./week3/index.md)
 
 [Week 4 - D-Seperation, CPTs and Maximimum Likelihood Estimation](./week4/index.md)
