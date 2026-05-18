@@ -1,6 +1,6 @@
-# Group Project Milestone 6: Final Model Selection, Improvement, and Final Report Draft
+# Group Project Milestone 6: Final Model Selection, Improvement, and Final Report Draft (TBA)
 
-## Introduction
+<!-- ## Introduction
 
 **Important instructions: Move your second project code to a branch titled 'second_project'. Then, proceed by working on the main branch for your final project.**
 
@@ -180,4 +180,4 @@ Cite:
 - External resources
 - Any generative AI tools used
 
-Failure to cite may result in point deductions.
+Failure to cite may result in point deductions. -->
