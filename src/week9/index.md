@@ -1,4 +1,4 @@
-# Week 9 – MonteCarlo Methods and Intro to Reinforcement Learning
+# Week 9 – Intro to Reinforcement Learning
 
 ## Lecture Materials
 - Lecture Slides

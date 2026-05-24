@@ -26,6 +26,8 @@
 [Week 7 – Hidden Markove Model's, Forward/Backward Algorithm](./week7/index.md)
 
 [Week 8 - Expectation Maximation](./week8/index.md)
+
+[Week 9 - Intro to Reinforcement Learning](./week9/index.md)
 <!-- [Week 3 - Advanced Probability, Bayesian Networks and D-Seperation](./week3/index.md)
 
 [Week 4 - D-Seperation, CPTs and Maximimum Likelihood Estimation](./week4/index.md)
