@@ -8,7 +8,7 @@ In this milestone you will complete two objectives. First, you will implement a 
 
 This is your **final submission**. There is no subsequent revision period. Your report should be complete, well-structured, and written for a broad technical audience.
 
-![Minecraft MDP Agent - a bot navigating the world using a learned policy, with pathfinding traces visible](images/MC_MDP_visualization.png)
+![Minecraft MDP Agent - a bot navigating the world using a learned policy, with pathfinding traces visible](../images/MC_MDP_visualization.png)
 
 ---
 
