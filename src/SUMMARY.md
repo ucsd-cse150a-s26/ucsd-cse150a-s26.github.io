@@ -9,7 +9,7 @@
  - [Milestone 3](./group_project/milestone3.md) -->
  - [Milestone 4](./group_project/milestone4.md)
  - [Milestone 5](./group_project/milestone5.md)
- - [Milestone 6 (TBA)](./group_project/milestone6.md)
+ - [Milestone 6](./group_project/milestone6.md)
  <!-- - [Milestone voting](./group_project/milestone7.md) -->
 [Week 1 - Introduction, Agents, and Environments](./week1/index.md)
 
